@@ -1,0 +1,4 @@
+fonts/
+charts/
+__pycache__/
+*.pyc
